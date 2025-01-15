@@ -12,7 +12,7 @@
 * [Walkthrough videos (Coming Soon)](#walkthrough-videos)
 * [Example enhancements (Coming Soon)](#example-enhancements)
 * [Team](#team)
-* [Team Contract](#team-contract)
+* [Links](#links)
 
 ## Overview
 
@@ -21,9 +21,22 @@ This project aims to develop a web application for [Spire](https://www.spirehawa
 ## Team
 Aspire25 is designed, implemented, and maintained by:<br />
 
-will add individual members cards here
+<table style="border: none;">
+  <tr>
+    <td style="border: none; border-bottom: none; text-align: center;">Chester Leoso</td>
+    <td style="border: none; border-bottom: none; text-align: center;">Junle Yan</td>
+    <td style="border: none; border-bottom: none; text-align: center;">Karissa Tabadero</td>
+    <td style="border: none; border-bottom: none; text-align: center;">Mairi Yoshioka</td>
+  </tr>
+  <tr>
+    <td style="border: none; border-bottom: none; text-align: center;">Micaiah Cape</td>
+    <td style="border: none; border-bottom: none; text-align: center;">Michaella Villanueva</td>
+    <td style="border: none; border-bottom: none; text-align: center;">Sage Suzuki</td>
+  </tr>
+   
+</table>
 
 Visit our [Github Organization](https://github.com/aspire-25) here.
 
-## Team Contract
+## Links
 See our [Team Contract](https://docs.google.com/document/d/1GpYGwK2xRSj14FGqq4h1G9N7zqfQE65u1zC3gbeW-GA/edit?usp=sharing) here.
