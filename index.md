@@ -1,8 +1,9 @@
-# Bowfolios
+# Aspire-25 Hompage
 
-## Table of contents
+See our team contract [here.](https://docs.google.com/document/d/1GpYGwK2xRSj14FGqq4h1G9N7zqfQE65u1zC3gbeW-GA/edit?usp=sharing)
 
-* [Overview](#overview)
+==============================================================================
+[Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
