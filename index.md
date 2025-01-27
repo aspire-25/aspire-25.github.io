@@ -1,6 +1,6 @@
 # Aspire25 Homepage
 
-![spire logo](image/spire-logo.png)
+![spire logo](images/spire-logo.png)
 
 ## Table of contents
 
