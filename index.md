@@ -1,5 +1,7 @@
 # Aspire25 Homepage
 
+![spire logo](image/spire-logo.png)
+
 ## Table of contents
 
 * [Overview](#overview)
