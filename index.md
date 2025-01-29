@@ -75,3 +75,7 @@ Visit our [Github Organization](https://github.com/aspire-25) here.
 
 ## Links
 See our [Team Contract](https://docs.google.com/document/d/1GpYGwK2xRSj14FGqq4h1G9N7zqfQE65u1zC3gbeW-GA/edit?usp=sharing) here.
+
+Our [M1 Project Board](https://github.com/orgs/aspire-25/projects/1).
+
+Our [M2 Project Board](https://github.com/orgs/aspire-25/projects/2).
