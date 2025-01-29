@@ -20,6 +20,36 @@
 
 This project aims to develop a web application for [Spire](https://www.spirehawaii.com/), a Hawaii-based CPA firm, as part of our ICS 414 Software Engineering class. This application will transition Spire’s Fiscal Sustainability Model (FSM) from a complex Excel-based tool to an intuitive, web-based platform, streamlining access and enhancing functionality for financial forecasting.
 
+## M1 Mockups
+### Login page
+![spire login](images/spire-login-mockup.png)
+
+### Forum page
+![spire forum](images/spire-forum-mockup.png)
+
+### Auditor Landing page
+![spire auditor landing](images/spire-auditor-landing-mockup.png)
+
+### Auditor Figures Page
+![spire auditor figures](images/spire-auditor-figures-mockup.png)
+
+### Auditor Income Statement Page
+![spire auditor income statement](images/spire-auditor-income-mockup.png)
+
+### Analyst Landing Page
+![spire analyst landing](images/spire-analyst-landing-mockup.png)
+
+### Executive Landing Page
+![spire executive landing](images/spire-executive-landing-mockup.png)
+
+### Executive Overview Page
+![spire executive overview](images/spire-executive-overview-mockup.png)
+
+### Admin Landing Page
+![spire admin landing](images/spire-admin-landing-mockup.png)
+
+
+
 ## Team
 Aspire25 is designed, implemented, and maintained by:<br />
 
