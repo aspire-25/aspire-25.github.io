@@ -34,7 +34,10 @@ This project aims to develop a web application for [Spire](https://www.spirehawa
 ![spire auditor figures](images/spire-auditor-figures-mockup.png)
 
 ### Auditor Income Statement Page
-![spire auditor income statement](images/spire-auditor-income-mockup.png)
+![spire auditor income statement](images/spire-auditor-incomeform-mockup.png)
+
+### Auditor Balance Sheet Page
+![spire auditor balance sheet](images/spire-auditor-balanceform-mockup.png)
 
 ### Analyst Landing Page
 ![spire analyst landing](images/spire-analyst-landing-mockup.png)
