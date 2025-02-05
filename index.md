@@ -1,5 +1,7 @@
 # Aspire25 Homepage
 
+![Acceptance testing](https://github.com/aspire-25/app/actions/workflows/playwright.yml/badge.svg)
+
 ![spire logo](images/spire-logo.png)
 
 ## Table of contents
