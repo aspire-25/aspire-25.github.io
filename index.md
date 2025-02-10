@@ -2,6 +2,8 @@
 
 ![Acceptance testing](https://github.com/aspire-25/app/actions/workflows/playwright.yml/badge.svg)
 
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/aspire-25?logo=Vercel)
+
 ![spire logo](images/spire-logo.png)
 
 ## Table of contents
